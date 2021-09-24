@@ -1,0 +1,4 @@
+﻿  Lab18.cpp
+C:\Users\val17\source\repos\Lab18\Lab18\Lab18.cpp(180,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\val17\source\repos\Lab18\Lab18\Lab18.cpp(180,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab18.vcxproj -> C:\Users\val17\source\repos\Lab18\Debug\Lab18.exe
